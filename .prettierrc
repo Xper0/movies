@@ -1,0 +1,12 @@
+{
+  "importOrder": [
+    "^components/core/(.*)$",
+    "^components/features/(.*)$",
+    "^components/shared/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderCaseInsensitive": true,
+  "importOrderGroupNamespaceSpecifiers": true,
+  "importOrderSortSpecifiers": true
+}
